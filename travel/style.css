@@ -17,3 +17,8 @@ body {
     box-sizing: border-box;
     background: #FFFFFF;
 }
+.container {
+    margin: 0 auto;
+    width: 1440px;
+    border: 1px solid red;
+}
