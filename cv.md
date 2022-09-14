@@ -1,1 +1,1 @@
-![logo-cv](/img/1663176192225.jpg "This is logo image")
+![logo-cv](/img/cv-logo.jpg "This is logo image")
