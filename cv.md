@@ -32,6 +32,7 @@ Purposefulness, focus on the result, perseverance. I think that I can be useful 
 + **Gallery module on java Script**
     + [Gallery](https://dmitriy2711.github.io/javascript_course_work/ "This is my study project")
 ### Code
+********
 ```
 function sayHello (name) {
     if(!name) console.log('Error!');
@@ -40,4 +41,5 @@ function sayHello (name) {
 sayHello('Dmitriy');
 ```
 ### Language level
+******************
 English: Pre-Intermediate;
