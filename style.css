@@ -2,14 +2,76 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
 }
 
 .container {
-    width: 100%;
-    display: flex;
-    flex-direction: row;
+    max-width: 1400px;
+    padding: 0 20px;
+}
+
+.cv-header {
+
+}
+
+.nav-menu {
+
+}
+
+.nav-menu_item {
+
+}
+
+.main {
+
+}
+
+.about-me {
+
+}
+
+.technologies {
+
+}
+
+.additional-education {
+
+}
+
+.my-projects {
+
+}
+
+.code {
+
+}
+
+.language-level {
+
+}
+
+.footer {
+
+}
+
+.rc-logo {
+
+}
+
+.facebook {
+
+}
+
+.telegram {
+
+}
+
+.instagram {
+    
 }
 
 .cv-logo {
     margin: 0 auto;
+    max-width: 100%;
 }
